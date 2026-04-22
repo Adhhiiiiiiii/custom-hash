@@ -1,4 +1,4 @@
-# Custom Hash Function with Streamlit
+# Custom Hash
 
 ## Description
 
@@ -16,7 +16,7 @@ The **custom hash function** uses ASCII manipulation, modular arithmetic, and co
 
 ## Live Demo
 
-You can view and interact with the live demo on [Streamlit Cloud](https://custom-hash-app.streamlit.app/#by-adhiyaman-babu).
+You can view and interact with the live demo on [Streamlit Cloud](https://custom-hash-app.streamlit.app).
 
 ![App Screenshot](images/app_screenshot.jpeg)
 
