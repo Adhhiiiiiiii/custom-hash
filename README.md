@@ -31,8 +31,8 @@ To run this project locally, ensure you have the following installed:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Adhhiiiiiiii/custom-hash-streamlit.git
-    cd custom-hash-streamlit
+    git clone https://github.com/Adhhiiiiiiii/custom-hash.git
+    cd custom-hash
     ```
 
 2. **Install required dependencies**:
